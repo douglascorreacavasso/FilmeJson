@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FilmeJson</string>
+    <string name="downloadJSON">Download JSON</string>
+    <string name="downloadGSON">Download GSON</string>
+</resources>
